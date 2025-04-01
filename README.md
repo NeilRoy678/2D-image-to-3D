@@ -34,6 +34,8 @@ For each image, the depth map is used to compute the 3D coordinates of valid poi
 
 The final 3D point cloud is visualized interactively using Open3D.
 
+### Original Image 
+![image](https://github.com/user-attachments/assets/3799312e-562a-40c5-ba45-711ece0e0d11)
 
 ### Output
 ![image](https://github.com/user-attachments/assets/e0302e30-34c7-4384-9b5e-4720ea2fd677)
