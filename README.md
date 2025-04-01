@@ -39,3 +39,6 @@ The final 3D point cloud is visualized interactively using Open3D.
 
 ### Output
 ![image](https://github.com/user-attachments/assets/e0302e30-34c7-4384-9b5e-4720ea2fd677)
+
+![image](https://github.com/user-attachments/assets/fc1eeea2-3318-4fa6-81f7-5a255bab6ef7)
+
