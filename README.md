@@ -1,4 +1,4 @@
-# 3D Reconstruction from 2D Images
+# 3D Reconstruction from 2D Images (Currently Under Development)
 
 This project demonstrates how to create a 3D point cloud from multiple 2D images using depth estimation and camera pose estimation techniques. The code leverages the MiDaS depth estimation model and SIFT feature matching for camera pose estimation to generate a 3D reconstruction.
 
